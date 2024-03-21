@@ -1,6 +1,6 @@
 ## Study Venue Finder (study-venue-finder)
 
-Welcome to Study Venue Finder! This platform is designed to revolutionize the way students discover and select study venues, particularly when studying at home.
+Welcome to Study Venue Finder! This platform is designed to revolutionize the way students discover and select study venues, particularly when they are at home.
 
 ## Description
 
@@ -12,7 +12,7 @@ Study Venue Finder is an innovative platform aimed at helping students optimize 
 - Real-time Data Analysis: Get insights into crowd density, temperature, and noise levels to make informed venue selections.
 - Personalized Recommendations: Receive tailored venue suggestions based on your preferences and study habits.
 - Interactive Map Interface: Visualize nearby study venues and filter based on specific criteria.
-- Venue Status Updates: Contribute to the community by providing real-time updates on venue status and conditions.
+- Venue Status Updates: Contribute to the community by providing real-time updates on venue status and conditions by configure the sensor throughout all venues which they will provide real time data to our platform
 - User Feedback Loop: Rate, review, and share tips about study venues to enhance community engagement.
 
 ## Goals
